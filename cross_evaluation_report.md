@@ -110,7 +110,7 @@ How many key results of the paper/report is the provided code meant to support? 
 
 
 **Results Completeness — Comment on/explain your choice above:**  
-The code generates all figures in the report. .csv file for robot_trajectories_5r produces matching results for Fig. 3, 5, 7, 8. Wasn’t able to replicate the results for 4 and 6.
+The code generates all figures in the report. .csv file for robot_trajectories_5r produces matching results for Fig. 3, 5, 7, 8. Wasn’t able to replicate the results for 4 and 6. We believe these specific plots (figure 4 and 6) are crucial in verifying their results and cannot be forgone. 
 
 
 ## Signatures
