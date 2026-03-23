@@ -21,8 +21,8 @@ If you need to assess both a dataset and tools, please take the average and comm
 - [ ] 20%
 - [ ] 40%
 - [ ] 60%
-- [ ] 80%
-- [x] 100%
+- [x] 80%
+- [ ] 100%
 
 
 **Documentation — Comment on/explain your choice above:**  
